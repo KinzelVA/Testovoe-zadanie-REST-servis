@@ -1,0 +1,5 @@
+pytest~=9.0.1
+fastapi~=0.123.5
+pydantic~=2.12.5
+SQLAlchemy~=2.0.44
+uvicorn[standard]
